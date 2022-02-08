@@ -1,5 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unsafe-assignment */
-
 import diaries from '../../data/diaries';
 import { NewDiaryEntry, NonSensitiveDiaryEntry, DiaryEntry } from '../types';
 
